@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94774602004']
-global.premium = ['94774602004']
-global.ownernomer = '94774602004'
+global.owner = ['94787811464']
+global.premium = ['94787811464']
+global.ownernomer = '94787811464'
 global.ownername = 'MR.SHENU'
 global.botname = 'Mr.shenu whatsapp bot'
 global.footer = ' mr.shenu whatsapp bot.'
